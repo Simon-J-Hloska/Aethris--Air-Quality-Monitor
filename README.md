@@ -31,8 +31,8 @@ Aethris solves this by combining an ESP32-based hardware sensor node with a Flut
 ```
 Accuracy comparison (typical):
 
-eCO₂ sensors   ████████████████████░░░░░░░░░░   ~15–30% error
-MH-Z19 NDIR    ████░░░░░░░░░░░░░░░░░░░░░░░░░░   ±50 ppm + 5%
+eCO₂ sensors   ████░░░░░░░░░░░░░░░░░░░░░░░░░░   ~15–30% error
+MH-Z19 NDIR    ████████████████████░░░░░░░░░░   ±50 ppm + 5%
 
 Result: Aethris measurements are 60–80% more reliable.
 ```
