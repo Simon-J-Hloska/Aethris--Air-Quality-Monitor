@@ -148,11 +148,11 @@ app/
 The project was built solo using an **adapted Scrum** process — the author acted as Product Owner, Scrum Master, and Developer simultaneously.
 
 ```
-Sprint 1   Requirements & UX design         ████████░░░░░░░░░░░░
-Sprint 2   Hardware prototyping             ████████████░░░░░░░░
-Sprint 3   Firmware + REST API              ████████████████░░░░
-Sprint 4   Flutter app + onboarding         ████████████████████
-Sprint 5   Integration & testing            ████████░░░░░░░░░░░░
+Sprint 1   Requirements & UX design
+Sprint 2   Hardware prototyping
+Sprint 3   Firmware + REST API
+Sprint 4   Flutter app + onboarding 
+Sprint 5   Integration & testing
 ```
 
 ---
@@ -209,15 +209,6 @@ flutter build ios --release
 | **Savings** | **~40–55%** |
 
 A 10% daily productivity gain from timely ventilation (≈ 45 min/day) means the hardware investment pays back within **one month** of active use.
-
----
-
-## Roadmap
-
-- [ ] **MQTT / cloud integration** — monitor data outside the local network
-- [ ] **Local database** (SQLite / InfluxDB) — long-term trend analysis
-- [ ] **Notification push** — alert when CO₂ or IAQ crosses thresholds
-- [ ] **Multi-device support** — manage multiple rooms from one app
 
 ---
 
